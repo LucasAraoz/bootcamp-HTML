@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+body{
+text-align: center;
+margin: 0;
+padding: 0;
+height: 25%;
+background-color: white;
+}
+header
+{padding: 1%;
+background-color: #0a2ff1;}
+
+div{
+    background-color: white;
+}
+
+h1,p,h4{
+    color: #0a2ff1;
+    background-color: white; 
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 50pt;
+    margin: 0;
+    padding: 5px 0px 100px 0px;
+}
+
+h2{
+    color: white;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 148pt;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 163pt;
+    margin: 0;
+    padding: 150px 0px 150px 0px;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 44pt;
+    margin: 0;
+    padding: 50px 0px 5px 0px;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 36pt;
+    margin: 0;
+}
+
+.p1
+    {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-size: 36pt;
+        margin: 0;
+
+    }
+
+strong{
+    font-weight: 900;
+}
+
+.in-percent
+{
+    color: white;
+    background-color: black;
+    font-size: 45pt;
+}
+
+footer
+{padding: 1.5%;
+    background-color: #0a2ff1;}
